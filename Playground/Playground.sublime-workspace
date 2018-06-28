@@ -1,0 +1,915 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Vec",
+				"Vector3()\tVector3()"
+			],
+			[
+				"GetC",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"Get",
+				"GetAxis(string axisName)\tfloat"
+			],
+			[
+				"Sy",
+				"Style\tinstance"
+			],
+			[
+				"col",
+				"colorama\tmodule"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"abs",
+				"abspath\tfunction"
+			],
+			[
+				"dir",
+				"dirname\tfunction"
+			],
+			[
+				"tk",
+				"tkinformation\tstatement"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"tkwo",
+				"tkwordlistbutton\tstatement"
+			],
+			[
+				"op",
+				"options\tstatement"
+			],
+			[
+				"var",
+				"variable\tstatement"
+			],
+			[
+				"Str",
+				"StringVar\tclass"
+			],
+			[
+				"VA",
+				"variable"
+			],
+			[
+				"va",
+				"variable\tparam"
+			],
+			[
+				"T",
+				"Text\tclass"
+			],
+			[
+				"read",
+				"readline\tfunction"
+			],
+			[
+				"hash",
+				"hashlib"
+			],
+			[
+				"m",
+				"mode"
+			],
+			[
+				"parse",
+				"parse_args\tfunction"
+			],
+			[
+				"de",
+				"description\tparam"
+			],
+			[
+				"exe",
+				"executable\tinstance"
+			],
+			[
+				"re",
+				"retrbinary\tfunction"
+			],
+			[
+				"gr",
+				"gravity"
+			],
+			[
+				"robd",
+				"rbody.velocity"
+			],
+			[
+				"execl",
+				"execlp\tfunction"
+			],
+			[
+				"map",
+				"maprange\tfunction"
+			],
+			[
+				"extr",
+				"extract\tfunction"
+			],
+			[
+				"z",
+				"ZipFile\tclass"
+			],
+			[
+				"url",
+				"urlopen\tfunction"
+			],
+			[
+				"e",
+				"elaspedi\tstatement"
+			],
+			[
+				"ins",
+				"Insertion"
+			],
+			[
+				"el",
+				"elaspedi\tstatement"
+			],
+			[
+				"a",
+				"algorithmtester\tmodule"
+			],
+			[
+				"Sh",
+				"ShiftUp}\t{ShiftUp}"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"sta",
+				"status\tstatement"
+			],
+			[
+				"Ctr",
+				"CtrlUp"
+			],
+			[
+				"Crt",
+				"CtrlDown"
+			],
+			[
+				"Send",
+				"SendInput"
+			],
+			[
+				"get",
+				"gethostname\tfunction"
+			],
+			[
+				"gethostb",
+				"gethostbyname\tfunction"
+			],
+			[
+				"gethost",
+				"gethostbyname\tfunction"
+			],
+			[
+				"s",
+				"split\tfunction"
+			],
+			[
+				"getaxis",
+				"Input.GetAxis(axisName)"
+			],
+			[
+				"ifwi",
+				"IfWinActive"
+			],
+			[
+				"mou",
+				"MouseMove"
+			],
+			[
+				"Mouse",
+				"MouseMove"
+			],
+			[
+				"Mou",
+				"MouseClickDrag"
+			],
+			[
+				"Rel",
+				"Relative"
+			],
+			[
+				"N",
+				"Numpad1"
+			],
+			[
+				"arr",
+				"array2\tstatement"
+			],
+			[
+				"st",
+				"string1\tstatement"
+			],
+			[
+				"In",
+				"IndexError\tclass"
+			],
+			[
+				"user",
+				"user\tstatement"
+			],
+			[
+				"sha",
+				"sha512\tfunction"
+			],
+			[
+				"h",
+				"hstring\tstatement"
+			],
+			[
+				"Mo",
+				"MouseClick"
+			],
+			[
+				"sne",
+				"SendInput"
+			],
+			[
+				"lo",
+				"Loop"
+			],
+			[
+				"if",
+				"If"
+			],
+			[
+				"If",
+				"IfWinActive"
+			],
+			[
+				"En",
+				"Enter"
+			],
+			[
+				"fai",
+				"failed\tstatement"
+			],
+			[
+				"sys",
+				"system\tfunction"
+			],
+			[
+				"w",
+				"write\tfunction"
+			],
+			[
+				"Int",
+				"IntVar\tclass"
+			],
+			[
+				"fa",
+				"failed\tstatement"
+			],
+			[
+				"Pl",
+				"PlaySound\tfunction"
+			],
+			[
+				"pla",
+				"PlaySound\tfunction"
+			],
+			[
+				"win",
+				"winsound\tmodule"
+			],
+			[
+				"an",
+				"anchor"
+			],
+			[
+				"NS",
+				"NSEW\tstatement"
+			],
+			[
+				"winfo_sc",
+				"winfo_screenwidth\tfunction"
+			],
+			[
+				"pro",
+				"protocol\tstatement"
+			],
+			[
+				"ha",
+				"hashed\tstatement"
+			],
+			[
+				"pass",
+				"password\tstatement"
+			],
+			[
+				"en",
+				"Entry\tclass"
+			],
+			[
+				"but",
+				"Button\tclass"
+			],
+			[
+				"print",
+				"printname\tfunction"
+			],
+			[
+				"ShiftDO",
+				"ShiftDown}\t{ShiftDown}"
+			],
+			[
+				"Shift",
+				"ShiftDown"
+			],
+			[
+				"send",
+				"SendInput"
+			],
+			[
+				"sev",
+				"sevseg"
+			],
+			[
+				"Co",
+				"Control"
+			],
+			[
+				"arg",
+				"ArgumentParser\tclass"
+			],
+			[
+				"digi",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"install",
+				"installupgrade\tfunction"
+			],
+			[
+				"macc",
+				"maccontrol"
+			],
+			[
+				"SetTi",
+				"SetTitleMatchMode"
+			],
+			[
+				"Erro",
+				"ErrorLevel"
+			],
+			[
+				"ex",
+				"Exist"
+			],
+			[
+				"Clo",
+				"Close"
+			],
+			[
+				"ifwin",
+				"IfWinNotExist"
+			],
+			[
+				"Ifwi",
+				"IfWinNotExist\t#IfWinNotExist"
+			],
+			[
+				"maccontrol",
+				"maccontrol_version"
+			],
+			[
+				"is",
+				"isfile\tmodule"
+			],
+			[
+				"bre",
+				"brewcheck\tfunction"
+			],
+			[
+				"update",
+				"updateURL\tstatement"
+			],
+			[
+				"cop",
+				"copyfile\tfunction"
+			],
+			[
+				"ar",
+				"ArgumentParser\tclass"
+			],
+			[
+				"la",
+				"Label\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "using System.Collections;\nusing System.Collections.Generic;\nusing UnityEngine;\n\npublic class Player : MonoBehaviour {\n    public float multiplier;\n    private Rigidbody rbody;\n\n    void Start()\n    {\n        rbody = GetComponent<Rigidbody>();\n    }\n\n    void FixedUpdate () {\n        float hor = Input.GetAxis(\"Horizontal\");\n        float ver  = Input.GetAxis(\"Vertical\");\n\n        rbody.velocity = new Vector3(hor * multiplier, 0, ver * multiplier);\n    }\n}\n",
+			"file": "Assets/Scripts/Player.cs",
+			"file_size": 504,
+			"file_write_time": 131645657646057931,
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Sublime-TIC-80-master/TIC-80.sublime-build",
+					""
+				],
+				[
+					"Packages/Sublime-TIC-80-master/TIC-80_modules.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Sublime-TIC-80-master/TIC-80.sublime-build",
+					""
+				],
+				[
+					"Packages/Sublime-TIC-80-master/TIC-80_modules.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Sublime-TIC-80-master/TIC-80.sublime-build",
+					""
+				],
+				[
+					"Packages/Sublime-TIC-80-master/TIC-80_modules.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 111.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Validate"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/minhm/Documents/GitHub/unity-dispo/Playground/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/minhm/Documents/GitHub/unity-dispo/Playground/Playground.sublime-project",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/hashcrack_gui.py",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/Playground/Playground.py",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/hashcrack.py",
+		"/Z/.bash_logout",
+		"/Z/.bashrc",
+		"/Z/.profile",
+		"/Z/.sudo_as_admin_successful",
+		"/C/Users/minhm/Documents/GitHub/unity-dispo/.gitignore",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/hashcrack_gui.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Graphical user interface/Learning_Tkinter.py",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Unity3DReference/Default.sublime-keymap",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/User/Stino/Default (Windows).sublime-keymap",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Super Calculator/Default (Windows).sublime-keymap",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Playground/Playground.py",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/rockyou.txt",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/emptylineremove.py",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/rockyour.txt",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/hashcrack.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Hash Crack/rockyou.txt",
+		"/Z/Minh's stuff/Programming Code/Python Script/Graphical user interface/Login System.py",
+		"/Z/Minh's stuff/Programming Code/Python Script/Graphical user interface/database.py",
+		"/Z/Minh's stuff/Programming Code/AutoHotKey Script/Volume.ahk",
+		"/C/Users/minhm/AppData/Roaming/vlc/lua/extensions/vlsub.lua",
+		"/C/Users/minhm/Downloads/converted_656723753.txt",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Database.py",
+		"/C/Users/minhm/Downloads/DatabaseAPI-27a27c4c6a94.json",
+		"/C/Users/minhm/Documents/GitHub/unity-dispo/Platform/Assets/Scripts/GameController.cs",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Server - client/Server.py",
+		"/C/Users/minhm/Documents/GitHub/unity-dispo/Platform/Assets/Scripts/Player.cs",
+		"/C/Users/minhm/Documents/GitHub/unity-dispo/Platform/Assets/Scripts/PlatformControllor.cs",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/User/UnityC#.sublime-settings",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/minhm/Documents/GitHub/Tools/Server.py",
+		"/C/Users/minhm/Documents/ATownUncovered-Alpha_0.15a-win/ATownUncovered.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Server - client/Client.py",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/pi.txt",
+		"/Z/Minh's stuff/Programming Code/Python Script/Command-line/test.py",
+		"/Z/Minh's stuff/Programming Code/Python Script/Server - client/Server.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/test.py",
+		"/C/Users/minhm/Desktop/wol.ps1",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/randomnum.py",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Random_num.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/random.txt",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/random.py",
+		"/C/Users/minhm/Desktop/SiriPort_Ru_jb_iOS_7_1_ver5.exe",
+		"/C/Users/minhm/Documents/GitHub/Tools/.gitignore",
+		"/C/Users/minhm/Documents/GitHub/Tools/Client.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/sortingalgo.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/algorithmtester.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/size sort.py",
+		"//192.168.12.2/saczin/test.txt",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Unity Completions/README.md",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Arduino/Sound detector/sound.ino",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/AutoHotKey Script/Mathimatical.ahk",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Weather.py",
+		"/C/Users/minhm/AppData/Local/Temp/Rar$DIa9964.35612/city.list.json",
+		"//SUPERCOOLGUY/saczin/Minh's stuff/Programming Code/Arduino/Playground/._Playground.ino",
+		"/C/Program Files (x86)/Nier Automata/logs/dinput8.log",
+		"/C/Python27/Scripts/pyminifier-script.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/minified/maccontrol.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/maccontrol.py",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/Python Script/Command-line/Calculator.py",
+		"/C/Users/minhm/Desktop/MultiMC/instances/1.7.10/minecraft/crash-reports/crash-2018-01-01_21.16.09-client.txt",
+		"/C/Users/minhm/Desktop/admin.reg",
+		"/C/batch_program/startup.bat",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/AutoHotKey Script/numpadshortcut.ahk",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/AutoHotKey Script/Volume.ahk",
+		"//192.168.12.2/saczin/Minh's stuff/Programming Code/AutoHotKey Script/Emoji.ahk",
+		"//SUPERCOOLGUY/saczin/Minh's stuff/Programming Code/AutoHotKey Script/Minecraft.ahk",
+		"//SUPERCOOLGUY/saczin/Minh's stuff/Programming Code/Python Script/Command-line/cypher.py",
+		"/C/Program Files (x86)/Hack 'n' Slash/Data/Scripts/main.lua",
+		"/C/Program Files (x86)/Hack 'n' Slash/Data/Scripts/Components/HealthComponent.lua",
+		"//SUPERCOOLGUY/saczin/Minh's stuff/Programming Code/Python Script/Command-line/maccontrol.py",
+		"/C/Games/Minecraft/resourcepacks/Canvas v128 Up.26.rar",
+		"/C/Windows/ShellNew/Template.ahk",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/User/highlight_duplicates.sublime-settings",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/minified/hash.py",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/hash.py",
+		"/C/Users/minhm/Documents/GitHub/Tools/maccontrol.py",
+		"/C/Users/minhm/AppData/Roaming/Sublime Text 3/Packages/Speech/Speech.sublime-settings",
+		"/C/Users/minhm/Desktop/pyminifier-master/setup.py",
+		"/C/Users/minhm/Desktop/pyminifier-master/README.rst",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/random.csv",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/Random_num.py",
+		"/C/Users/minhm/Documents/GitHub/Tools/README.md",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/word_dictionary.py",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/Morse_code.py",
+		"/C/Users/minhm/Downloads/Bảng tính chưa có tiêu đề - Trang tính1.tsv",
+		"/C/Users/minhm/Downloads/Bảng tính chưa có tiêu đề - Trang tính1.csv",
+		"/C/Users/minhm/Documents/My script/Python Script/Graphical user interface/database.py",
+		"/C/Python27/Lib/hashlib.py",
+		"/C/Users/minhm/Documents/My script/Python Script/Graphical user interface/Login System.py",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/Write.py",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/test.py",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/sorter",
+		"/C/Users/minhm/Documents/My script/Python Script/Command-line/Text.py",
+		"/C/Users/minhm/Documents/My script/Python Script/Graphical user interface/Learning_Tkinter.py",
+		"/C/Users/minhm/Documents/My script/AutoHotKey Script/Minecraft.ahk",
+		"/C/Users/minhm/Downloads/kali-linux-2017.3-amd64/kali-linux-2017.3-amd64.txt.sha256sum",
+		"/C/Users/minhm/Documents/ATownUncovered-Alpha_0.13b-win/ATownUncovered.py",
+		"/C/Users/minhm/Desktop/Malmo-0.31.0-Windows-64bit_Python3.6/install_windows.md",
+		"/C/Users/minhm/Desktop/automate.ahk",
+		"/C/Users/minhm/Desktop/MultiMC/instances/1.7.10/minecraft/config/stefinusguns.cfg",
+		"/C/Users/minhm/Documents/Arduino/test.ino",
+		"/C/Users/minhm/Documents/My script/AutoHotKey Script/Volume.ahk",
+		"/C/Users/minhm/Documents/My script/AutoHotKey Script/New AutoHotkey Script.ahk",
+		"/C/Users/minhm/Documents/Python Script/Command-line/hash.py",
+		"/C/Users/minhm/Documents/GitHub/Tools/maccontrol_version/0.5.py",
+		"/C/Users/minhm/Desktop/Stuff I don't care/slowloris-master/slowloris.py",
+		"/C/Users/minhm/Desktop/Stuff I don't care/slowloris-master/setup.py",
+		"/C/Users/minhm/Downloads/luamacros.zip",
+		"/C/Users/minhm/Documents/GitHub/Tools/upgrade.py",
+		"/C/Program Files (x86)/Counter-Strike Global Offensive/csgo/addons/sourcemod/configs/core.cfg",
+		"/C/Users/minhm/AppData/Roaming/.minecraft/saves/14w48a/datapacks/pack.mcmeta",
+		"/C/Users/minhm/AppData/Roaming/.minecraft/saves/14w48a/data/minh/recipes/command_block.json",
+		"/C/Windows.old/Users/minhm/Desktop/hashcat-4.0.1/example0.cmd",
+		"/C/Users/minhm/Documents/Python Script/Command-line/Private_key_cracker.py",
+		"/C/Users/minhm/Documents/Python Script/Command-line/setup.py",
+		"/C/Users/minhm/Documents/Python Script/Command-line/Check.py",
+		"/C/Users/minhm/Documents/Python Script/Command-line/maccontrol.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/Player.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								442
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"135,145": "Name should have prefix '_'. (Rule 'Fields').",
+								"26,31": "Using directive is not used by code and can be removed safely."
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 144.0
+	},
+	"output.stino_panel":
+	{
+		"height": 144.0
+	},
+	"output.variable_get":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "Playground.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
