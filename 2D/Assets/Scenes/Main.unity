@@ -448,6 +448,7 @@ MonoBehaviour:
   cactus3: {fileID: 1836672707880380, guid: 19c0a4917f84d2343b2f65ead4237787, type: 2}
   cactus4: {fileID: 1962004661032344, guid: 2a35cffb99431a846a8ad1588e72faa7, type: 2}
   cactus5: {fileID: 1987624497574088, guid: de8f6ace3b29be54cb3da7f05e89bc07, type: 2}
+  cloud: {fileID: 1987907331680260, guid: 2c967a607b4744a4eb8e56699f6e857f, type: 2}
   startWait: 5
   speed: 3
 --- !u!1 &1270700900
@@ -671,7 +672,7 @@ GameObject:
   - component: {fileID: 1477102711}
   - component: {fileID: 1477102710}
   m_Layer: 0
-  m_Name: New Sprite
+  m_Name: JumpDetection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

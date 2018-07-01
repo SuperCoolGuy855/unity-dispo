@@ -16,14 +16,13 @@ public class Player : MonoBehaviour {
         {
             died = true;
         }
+        else
+        {
+            onGround = true;
+        }
     }
 
-    private void OnTriggerEnter2D(Collider2D col)
-    {
-        onGround = true;
-    }
-
-    private void OnTriggerExit2D (Collider2D col)
+    private void OnCollisionExit2D (Collision2D col)
 	{
         onGround = false;
     }

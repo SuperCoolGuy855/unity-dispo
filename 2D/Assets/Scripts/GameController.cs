@@ -11,10 +11,10 @@ public class GameController : MonoBehaviour
     private Animator playerAnimator;
     private Rigidbody2D playerRD2D;
 
-    private Vector3 spawnLocation = new Vector3(4, -0.8f, 0);
     private float xposSpawn = 14f;
     private float xposDel = -9.2f;
-    private IEnumerator container;
+    private IEnumerator cactusContainer;
+    private IEnumerator cloudContainer;
     public GameObject gameoverText;
     public Transform ground1;
 	public Transform ground2;
@@ -24,6 +24,7 @@ public class GameController : MonoBehaviour
     public GameObject cactus3;
     public GameObject cactus4;
     public GameObject cactus5;
+    public GameObject cloud;
     public float startWait = 5;
     [Range(0, 50)]
 	public float speed;
@@ -33,8 +34,10 @@ public class GameController : MonoBehaviour
         playerScript = player.GetComponent<Player>();
         playerAnimator = player.GetComponent<Animator>();
         playerRD2D = player.GetComponent<Rigidbody2D>();
-        container = SpawnCactus();
-        StartCoroutine(container);
+        cactusContainer = SpawnCactus();
+        cloudContainer = SpawnCloud();
+        StartCoroutine(cactusContainer);
+        StartCoroutine(cloudContainer);
         restart.gameObject.SetActive(false);
         restart.onClick.AddListener(startover);
         gameoverText.SetActive(false);
@@ -60,12 +63,21 @@ public class GameController : MonoBehaviour
                 Destroy(r);
             }
         }
+        foreach (GameObject r in GameObject.FindGameObjectsWithTag("Cloud"))
+        {
+            r.transform.Translate(Vector3.left * Time.deltaTime * 0.5f);
+            if (r.transform.position.x <= -9.2f)
+            {
+                Destroy(r);
+            }
+        }
         if (playerScript.died)
         {
             playerAnimator.SetBool("die", true);
             speed = 0f;
             playerRD2D.constraints = RigidbodyConstraints2D.FreezeAll;
-            StopCoroutine(container);
+            StopCoroutine(cactusContainer);
+            StopCoroutine(cloudContainer);
             restart.gameObject.SetActive(true);
             gameoverText.SetActive(true);
             if (Input.anyKeyDown)
@@ -77,6 +89,7 @@ public class GameController : MonoBehaviour
 
     IEnumerator SpawnCactus()
     {
+        Vector3 spawnLocation = new Vector3(4, -0.8f, 0);
         yield return new WaitForSeconds(startWait);
         float endtimeSpawn = 3f;
         while (true)
@@ -103,6 +116,17 @@ public class GameController : MonoBehaviour
             speed += 0.2f;
             endtimeSpawn -= 0.05f;
         }
+    }
+
+    IEnumerator SpawnCloud()
+    {
+        while (true)
+        {
+            Vector3 spawnLocation = new Vector3(4, Random.Range(0f, 1.5f), 0);
+            Instantiate(cloud, spawnLocation, Quaternion.identity);
+            yield return new WaitForSeconds(Random.Range(5, 11));
+        }
+
     }
 
     void startover()
