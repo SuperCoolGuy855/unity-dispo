@@ -10,23 +10,15 @@ public class Player : MonoBehaviour {
 	private Rigidbody2D player;
     private bool onGround = false;
 
-    private void OnCollisionEnter2D(Collision2D col)
+    void OnCollisionEnter2D()
     {
-        if (col.gameObject.tag == "Cactus")
-        {
-            died = true;
-        }
-        else
-        {
-            onGround = true;
-        }
+        onGround = true;
     }
-
-    private void OnCollisionExit2D (Collision2D col)
-	{
-        onGround = false;
+    
+    void OnTriggerEnter2D()
+    {
+        died = true;
     }
-
     // Use this for initialization
     void Start () {
 		player = GetComponent<Rigidbody2D> ();
@@ -34,10 +26,8 @@ public class Player : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
-		if ((Input.GetKeyDown (KeyCode.Space) || Input.GetKeyDown (KeyCode.UpArrow)) && onGround) {
-			player.AddForce (Vector2.up * force, ForceMode2D.Impulse);
-		}
+    void Update()
+    {
         if (Input.GetKey(KeyCode.DownArrow))
         {
             playerAnimator.SetBool("duck", true);
@@ -46,5 +36,11 @@ public class Player : MonoBehaviour {
         {
             playerAnimator.SetBool("duck", false);
         }
+    }
+
+	void FixedUpdate () {
+		if ((Input.GetKeyDown (KeyCode.Space) || Input.GetKeyDown (KeyCode.UpArrow)) && onGround) {
+			player.AddForce (Vector2.up * force, ForceMode2D.Impulse);
+		}
 	}
 }
