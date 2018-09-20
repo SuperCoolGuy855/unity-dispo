@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class GameController : MonoBehaviour {
+	// TODO: Add a win detection system
 	private GameObject[][] gameObjectGrid;
 	private bool status = false; //false: O, true: X
 	public GameObject O; // O GameObject prefab
